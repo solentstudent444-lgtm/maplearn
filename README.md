@@ -53,5 +53,5 @@ Deployed using Vercel
 📌 Author
 
 Karina Roade
-GitHub: https://github.com/solentstudent444
+GitHub: https://github.com/solentstudent444lgtm
 
